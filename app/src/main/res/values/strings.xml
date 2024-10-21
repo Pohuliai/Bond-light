@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Світло</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="first_fragment_label">Керування світлом</string>
+    <string name="second_fragment_label">Налаштування</string>
+    <string name="local_fragment_label">Локальне керування</string>
+</resources>

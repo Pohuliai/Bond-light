@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Bond_light" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorOnBackground">@color/colorBackgroundDark</item>
+        <item name="colorOnError">@color/white</item>
+        <item name="android:colorBackground">@color/colorBackgroundDark</item>
+        <item name="android:windowBackground">@color/colorBackgroundDark</item>
+    </style>
+
+    <style name="Theme.Bond_light" parent="Base.Theme.Bond_light" />
+</resources>
